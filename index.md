@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+![103743595_1298688577002314_2343663290835128935_n](https://user-images.githubusercontent.com/95402837/144481824-45f1c4ea-bd3c-44f6-b918-240157e476fb.jpg)
 
-You can use the [editor on GitHub](https://github.com/Narinthip2001/6424650536_project2./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### _ประวัติส่วนตัว_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ชื่อ      : NARINTHIP
 
-### Markdown
+นามสกุล  : MALITHONG
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+สัญชาตฺิ  : THAI
 
-```markdown
-Syntax highlighted code block
+ศาสนา   : พุทธ 
 
-# Header 1
-## Header 2
-### Header 3
+วันเกิด   : 11 DESEMBER 2001
 
-- Bulleted
-- List
+### _การศึกษา_
 
-1. Numbered
-2. List
+ประถมศึกษา : โรงเรียนเทศบาลเมืองบางกะดี
 
-**Bold** and _Italic_ and `Code` text
+มัธยมศึกษา  : โรงเรียนปทุมวิไล
 
-[Link](url) and ![Image](src)
-```
+อุดมศึกษา   : มหาวิทยาลัยธรรมศาสตร์ 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### _ผลงาน_
 
-### Jekyll Themes
+เข้าร่วมการเเข่งขันตอบปัญหาทางวิทยาศาสตร์ระดับชั้นมัธยมศึกษาตอนปลายศูนย์ภาคกลาง 2562
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Narinthip2001/6424650536_project2./settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+เข้าร่วมการเเข่งขันชีววิทยาเพชรยอดมงกุฏ ครั้งที่7 รอบเจียระไนเพชร
+ 
+เข้าร่วมการสอบเคมีออสเตรเลีย (ANCQ) 2560-2562  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
